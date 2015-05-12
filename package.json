@@ -1,0 +1,26 @@
+{
+  "name": "react-inputs",
+  "version": "0.0.0",
+  "description": "react-inputs project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "flux": "^2.0.1",
+    "gulp": "^3.8.11",
+    "lodash": "^3.7.0",
+    "react": "^0.13.2",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [
+    "react"
+  ],
+  "author": "Max P",
+  "license": "MIT",
+  "bugs": {}
+}
