@@ -1,3 +1,6 @@
-=== Run ===
-nmp install
+How to build:
+====
+
+npm instal
+
 gulp
