@@ -1,0 +1,3 @@
+=== Run ===
+nmp install
+gulp
